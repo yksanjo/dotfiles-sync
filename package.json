@@ -1,0 +1,20 @@
+{
+  "name": "dotfiles-sync",
+  "version": "1.0.0",
+  "description": "Backup and sync dotfiles configuration",
+  "main": "src/index.js",
+  "bin": {
+    "dotfiles-sync": "./bin/dotfiles-sync"
+  },
+  "scripts": {
+    "start": "node bin/dotfiles-sync"
+  },
+  "keywords": ["dotfiles", "sync", "backup", "config"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "fs-extra": "^11.2.0"
+  }
+}
