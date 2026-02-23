@@ -1,5 +1,12 @@
 # dotfiles-sync
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/dotfiles-sync/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/dotfiles-sync/actions)
+![License](https://img.shields.io/github/license/yksanjo/dotfiles-sync)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/dotfiles-sync)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/dotfiles-sync)
+
 ## Detailed Description
 
 dotfiles-sync is maintained as an industry-grade software project with production-ready engineering practices.  
